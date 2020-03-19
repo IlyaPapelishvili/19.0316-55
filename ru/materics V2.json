@@ -1,0 +1,89 @@
+{
+  "materics": [
+    {
+      "name": "Европа",
+      "countres": [
+        {
+          "name": "Беларусь",
+          "capital": "Минск",
+          "population": "9,5 миллиона"
+        },
+        {
+          "name": "Россия",
+          "capital": "Москва",
+          "population": "144,5 миллиом"
+        }
+      ]
+    },
+    {
+      "name": "Азия",
+      "countres": [
+        {
+          "name": "Китай",
+          "capital": "Пекин",
+          "population": " 1,386 миллиарда"
+        },
+        {
+          "name": "Япония",
+          "capital": "Токио",
+          "population": "126,8 миллиом"
+        }
+      ]
+    },
+    {
+      "name": "Австралия",
+      "countres": [
+        {
+          "name": "Австралия",
+          "capital": "Канберра",
+          "population": "24,6 миллиона"
+        }
+      ]
+    },
+    {
+      "name": "Африка",
+      "countres": [
+        {
+          "name": "Египет",
+          "capital": "Каир",
+          "population": "97,55 млн"
+        },
+        {
+          "name": "Алжир",
+          "capital": "Алжир",
+          "population": "41,32 миллиом"
+        }
+      ]
+    },
+    {
+      "name": "Северная Америка",
+      "countres": [
+        {
+          "name": "Канада",
+          "capital": "Оттава",
+          "population": "37,59 миллиона"
+        },
+        {
+          "name": "США",
+          "capital": "Вашингтон",
+          "population": "327,2 млн."
+        }
+      ]
+    },
+    {
+      "name": "Южная Америка",
+      "countres": [
+        {
+          "name": "Бразилия",
+          "capital": "Бразилиа",
+          "population": "209,3 миллиона"
+        },
+        {
+          "name": "Чили",
+          "capital": "Сантьяго",
+          "population": "18,05 миллиом"
+        }
+      ]
+    }
+  ]
+}
